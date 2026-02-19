@@ -1,0 +1,2367 @@
+[
+	{
+		"chunk": 0,
+		"chunk_offset": 0,
+		"chunk_size": 100,
+		"total": 987,
+		"unit": "litres",
+		"resolution": "day",
+		"granularity_litres": 10,
+		"data": [
+			{
+				"index": 0,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 1,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 2,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 3,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 4,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 5,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 6,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 7,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 8,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 9,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 10,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 11,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 12,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 13,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 14,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 15,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 16,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 17,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 18,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 19,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 20,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 21,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 22,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 23,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 24,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 25,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 26,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 27,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 28,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 29,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 30,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 31,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 32,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 33,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 1
+			},
+			{
+				"index": 34,
+				"litres": 2560,
+				"power_cut": false,
+				"regen": 1
+			},
+			{
+				"index": 35,
+				"litres": 12800,
+				"power_cut": false,
+				"regen": 1
+			},
+			{
+				"index": 36,
+				"litres": 0,
+				"power_cut": true,
+				"regen": 1
+			},
+			{
+				"index": 37,
+				"litres": 12960,
+				"power_cut": true,
+				"regen": 1
+			},
+			{
+				"index": 38,
+				"litres": 2560,
+				"power_cut": false,
+				"regen": 2
+			},
+			{
+				"index": 39,
+				"litres": 10240,
+				"power_cut": false,
+				"regen": 1
+			},
+			{
+				"index": 40,
+				"litres": 15360,
+				"power_cut": false,
+				"regen": 1
+			},
+			{
+				"index": 41,
+				"litres": 5120,
+				"power_cut": true,
+				"regen": 1
+			},
+			{
+				"index": 42,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 43,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 44,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 45,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 46,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 47,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 48,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 49,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 50,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 51,
+				"litres": 15360,
+				"power_cut": false,
+				"regen": 1
+			},
+			{
+				"index": 52,
+				"litres": 2560,
+				"power_cut": false,
+				"regen": 1
+			},
+			{
+				"index": 53,
+				"litres": 17920,
+				"power_cut": false,
+				"regen": 1
+			},
+			{
+				"index": 54,
+				"litres": 17920,
+				"power_cut": false,
+				"regen": 1
+			},
+			{
+				"index": 55,
+				"litres": 5280,
+				"power_cut": true,
+				"regen": 1
+			},
+			{
+				"index": 56,
+				"litres": 12800,
+				"power_cut": false,
+				"regen": 1
+			},
+			{
+				"index": 57,
+				"litres": 10240,
+				"power_cut": false,
+				"regen": 1
+			},
+			{
+				"index": 58,
+				"litres": 10240,
+				"power_cut": false,
+				"regen": 1
+			},
+			{
+				"index": 59,
+				"litres": 2560,
+				"power_cut": false,
+				"regen": 2
+			},
+			{
+				"index": 60,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 61,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 62,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 63,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 64,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 65,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 66,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 67,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 68,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 69,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 70,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 71,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 72,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 73,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 74,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 75,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 76,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 77,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 78,
+				"litres": 15360,
+				"power_cut": true,
+				"regen": 0
+			},
+			{
+				"index": 79,
+				"litres": 15360,
+				"power_cut": false,
+				"regen": 1
+			},
+			{
+				"index": 80,
+				"litres": 2640,
+				"power_cut": true,
+				"regen": 1
+			},
+			{
+				"index": 81,
+				"litres": 7760,
+				"power_cut": false,
+				"regen": 1
+			},
+			{
+				"index": 82,
+				"litres": 10240,
+				"power_cut": true,
+				"regen": 1
+			},
+			{
+				"index": 83,
+				"litres": 160,
+				"power_cut": false,
+				"regen": 2
+			},
+			{
+				"index": 84,
+				"litres": 5120,
+				"power_cut": true,
+				"regen": 2
+			},
+			{
+				"index": 85,
+				"litres": 17920,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 86,
+				"litres": 2560,
+				"power_cut": false,
+				"regen": 1
+			},
+			{
+				"index": 87,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 88,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 89,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 90,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 91,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 92,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 93,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 94,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 95,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 96,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 97,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 98,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 99,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			}
+		]
+	},
+	{
+		"chunk": 1,
+		"chunk_offset": 100,
+		"chunk_size": 100,
+		"total": 987,
+		"unit": "litres",
+		"resolution": "day",
+		"granularity_litres": 10,
+		"data": [
+			{
+				"index": 100,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 101,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 102,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 103,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 104,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 105,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 106,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 107,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 108,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 109,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 110,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 111,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 112,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 113,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 114,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 115,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 116,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 117,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 118,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 119,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 120,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 121,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 122,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 123,
+				"litres": 15360,
+				"power_cut": true,
+				"regen": 0
+			},
+			{
+				"index": 124,
+				"litres": 2560,
+				"power_cut": false,
+				"regen": 1
+			},
+			{
+				"index": 125,
+				"litres": 15520,
+				"power_cut": true,
+				"regen": 2
+			},
+			{
+				"index": 126,
+				"litres": 5120,
+				"power_cut": true,
+				"regen": 1
+			},
+			{
+				"index": 127,
+				"litres": 7680,
+				"power_cut": false,
+				"regen": 1
+			},
+			{
+				"index": 128,
+				"litres": 5120,
+				"power_cut": true,
+				"regen": 1
+			},
+			{
+				"index": 129,
+				"litres": 10240,
+				"power_cut": false,
+				"regen": 1
+			},
+			{
+				"index": 130,
+				"litres": 2560,
+				"power_cut": true,
+				"regen": 1
+			},
+			{
+				"index": 131,
+				"litres": 2560,
+				"power_cut": true,
+				"regen": 1
+			},
+			{
+				"index": 132,
+				"litres": 5120,
+				"power_cut": true,
+				"regen": 1
+			},
+			{
+				"index": 133,
+				"litres": 160,
+				"power_cut": false,
+				"regen": 2
+			},
+			{
+				"index": 134,
+				"litres": 15360,
+				"power_cut": true,
+				"regen": 1
+			},
+			{
+				"index": 135,
+				"litres": 7760,
+				"power_cut": false,
+				"regen": 1
+			},
+			{
+				"index": 136,
+				"litres": 80,
+				"power_cut": false,
+				"regen": 2
+			},
+			{
+				"index": 137,
+				"litres": 15360,
+				"power_cut": false,
+				"regen": 1
+			},
+			{
+				"index": 138,
+				"litres": 2560,
+				"power_cut": false,
+				"regen": 2
+			},
+			{
+				"index": 139,
+				"litres": 0,
+				"power_cut": true,
+				"regen": 1
+			},
+			{
+				"index": 140,
+				"litres": 10240,
+				"power_cut": false,
+				"regen": 1
+			},
+			{
+				"index": 141,
+				"litres": 10400,
+				"power_cut": true,
+				"regen": 1
+			},
+			{
+				"index": 142,
+				"litres": 5120,
+				"power_cut": false,
+				"regen": 2
+			},
+			{
+				"index": 143,
+				"litres": 17920,
+				"power_cut": false,
+				"regen": 1
+			},
+			{
+				"index": 144,
+				"litres": 10240,
+				"power_cut": false,
+				"regen": 1
+			},
+			{
+				"index": 145,
+				"litres": 5120,
+				"power_cut": false,
+				"regen": 1
+			},
+			{
+				"index": 146,
+				"litres": 2560,
+				"power_cut": false,
+				"regen": 2
+			},
+			{
+				"index": 147,
+				"litres": 12800,
+				"power_cut": false,
+				"regen": 1
+			},
+			{
+				"index": 148,
+				"litres": 0,
+				"power_cut": true,
+				"regen": 1
+			},
+			{
+				"index": 149,
+				"litres": 10400,
+				"power_cut": false,
+				"regen": 2
+			},
+			{
+				"index": 150,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 151,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 152,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 153,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 154,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 155,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 156,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 157,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 158,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 159,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 160,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 161,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 162,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 163,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 164,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 165,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 166,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 167,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 168,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 169,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 170,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 171,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 172,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 173,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 174,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 175,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 176,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 177,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 178,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 179,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 180,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 181,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 182,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 183,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 184,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 185,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 186,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 187,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 188,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 189,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 190,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 191,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 192,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 193,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 194,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 195,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 196,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 197,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 198,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 199,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			}
+		]
+	},
+	{
+		"chunk": 9,
+		"chunk_offset": 900,
+		"chunk_size": 87,
+		"total": 987,
+		"unit": "litres",
+		"resolution": "day",
+		"granularity_litres": 10,
+		"data": [
+			{
+				"index": 900,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 901,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 902,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 903,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 904,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 905,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 906,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 907,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 908,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 909,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 910,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 911,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 912,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 913,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 914,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 915,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 916,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 917,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 918,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 919,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 920,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 921,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 922,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 923,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 924,
+				"litres": 80,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 925,
+				"litres": 80,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 926,
+				"litres": 80,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 927,
+				"litres": 80,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 928,
+				"litres": 80,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 929,
+				"litres": 80,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 930,
+				"litres": 80,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 931,
+				"litres": 80,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 932,
+				"litres": 80,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 933,
+				"litres": 80,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 934,
+				"litres": 80,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 935,
+				"litres": 80,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 936,
+				"litres": 80,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 937,
+				"litres": 80,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 938,
+				"litres": 80,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 939,
+				"litres": 80,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 940,
+				"litres": 80,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 941,
+				"litres": 80,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 942,
+				"litres": 80,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 943,
+				"litres": 80,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 944,
+				"litres": 80,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 945,
+				"litres": 80,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 946,
+				"litres": 80,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 947,
+				"litres": 80,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 948,
+				"litres": 80,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 949,
+				"litres": 80,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 950,
+				"litres": 80,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 951,
+				"litres": 80,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 952,
+				"litres": 80,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 953,
+				"litres": 80,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 954,
+				"litres": 80,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 955,
+				"litres": 80,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 956,
+				"litres": 80,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 957,
+				"litres": 80,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 958,
+				"litres": 80,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 959,
+				"litres": 80,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 960,
+				"litres": 80,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 961,
+				"litres": 80,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 962,
+				"litres": 80,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 963,
+				"litres": 80,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 964,
+				"litres": 80,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 965,
+				"litres": 80,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 966,
+				"litres": 80,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 967,
+				"litres": 80,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 968,
+				"litres": 80,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 969,
+				"litres": 80,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 970,
+				"litres": 80,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 971,
+				"litres": 80,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 972,
+				"litres": 80,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 973,
+				"litres": 80,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 974,
+				"litres": 80,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 975,
+				"litres": 80,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 976,
+				"litres": 80,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 977,
+				"litres": 80,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 978,
+				"litres": 80,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 979,
+				"litres": 80,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 980,
+				"litres": 80,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 981,
+				"litres": 80,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 982,
+				"litres": 80,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 983,
+				"litres": 80,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 984,
+				"litres": 80,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 985,
+				"litres": 80,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 986,
+				"litres": 80,
+				"power_cut": false,
+				"regen": 0
+			}
+		]
+	},
+	{
+		"chunk": 0,
+		"chunk_offset": 0,
+		"chunk_size": 100,
+		"total": 2277,
+		"unit": "litres",
+		"resolution": "15min",
+		"data": [
+			{
+				"index": 0,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 1,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 2,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 3,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 4,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 5,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 6,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 7,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 8,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 9,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 10,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 11,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 12,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 13,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 14,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 15,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 16,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 17,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 18,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 19,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 20,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 21,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 22,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 23,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 24,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 25,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 26,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 27,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 28,
+				"litres": 256,
+				"power_cut": true,
+				"regen": 0
+			},
+			{
+				"index": 29,
+				"litres": 512,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 30,
+				"litres": 512,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 31,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 32,
+				"litres": 768,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 33,
+				"litres": 0,
+				"power_cut": true,
+				"regen": 0
+			},
+			{
+				"index": 34,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 35,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 36,
+				"litres": 256,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 37,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 38,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 39,
+				"litres": 512,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 40,
+				"litres": 0,
+				"power_cut": true,
+				"regen": 0
+			},
+			{
+				"index": 41,
+				"litres": 512,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 42,
+				"litres": 512,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 43,
+				"litres": 512,
+				"power_cut": false,
+				"regen": 1
+			},
+			{
+				"index": 44,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 45,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 46,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 47,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 48,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 49,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 50,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 51,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 52,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 53,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 54,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 55,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 56,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 57,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 58,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 59,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 60,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 61,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 62,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 63,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 64,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 65,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 66,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 67,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 68,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 69,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 70,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 71,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 72,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 73,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 74,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 75,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 76,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 77,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 78,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 79,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 80,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 81,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 82,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 83,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 84,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 85,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 86,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 87,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 88,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 89,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 90,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 91,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 92,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 93,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 94,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 95,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 96,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 97,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 98,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			},
+			{
+				"index": 99,
+				"litres": 0,
+				"power_cut": false,
+				"regen": 0
+			}
+		]
+	}
+]

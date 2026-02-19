@@ -1,0 +1,70 @@
+#pragma once
+
+// ─── WiFi ───────────────────────────────────────────────────
+#define WIFI_SSID "your-ssid"
+#define WIFI_PASSWORD "your-password"
+
+// ─── NTP ────────────────────────────────────────────────────
+#define NTP_SERVER "pool.ntp.org"
+// POSIX TZ string — Central European Time with automatic DST
+// See: https://github.com/nayarsystems/posix_tz_db/blob/master/zones.csv
+#define NTP_TZ "CET-1CEST,M3.5.0,M10.5.0/3"
+
+// ─── MQTT ───────────────────────────────────────────────────
+#define MQTT_HOST "192.168.1.100"
+#define MQTT_PORT 1883
+#define MQTT_USER ""     // optional
+#define MQTT_PASSWORD "" // optional
+#define MQTT_CLIENT_ID "bwt-bridge"
+#define MQTT_TOPIC_PREFIX "bwt/water" // base topic
+#define MQTT_BUFFER_SIZE 32768        // PubSubClient buffer
+
+// ─── BLE Target Device ─────────────────────────────────────
+#define BWT_DEVICE_NAME "BWTblue"          // advertised name prefix
+#define BWT_DEVICE_MAC ""                  // e.g. "AA:BB:CC:DD:EE:FF" — if set, name is ignored
+
+// ─── Timing ─────────────────────────────────────────────────
+#define POLL_INTERVAL_MS 960000         // 16 min between polls
+#define BLE_SCAN_DURATION_SEC 10        // BLE scan window
+#define BLE_CONNECT_TIMEOUT_MS 20000    // 20s connection timeout
+#define BLE_PACKET_TIMEOUT_MS 60000     // 60s max wait for all notification packets
+#define INTER_REQUEST_DELAY_MS 100      // delay between daily and quarter-hour requests
+#define BLE_CONNECT_RETRIES 10          // number of BLE connection attempts per cycle
+#define BLE_CONNECT_RETRY_DELAY_MS 2000 // base delay between retries (multiplied by attempt)
+
+// ─── BLE Protocol Constants ────────────────────────────────
+#define BWT_SERVICE_UUID "D973F2E0-B19E-11E2-9E96-0800200C9A66"
+#define BWT_CHAR_BUFFER_UUID "D973F2E1-B19E-11E2-9E96-0800200C9A66"    // notify
+#define BWT_CHAR_TRIGGER_UUID "D973F2E2-B19E-11E2-9E96-0800200C9A66"   // write
+#define BWT_CHAR_BROADCAST_UUID "D973F2E3-B19E-11E2-9E96-0800200C9A66" // read
+
+// ─── Memory Layout ──────────────────────────────────────────
+#define QH_START_ADDR 0       // quarter-hour region start
+#define QH_END_ADDR 5760      // quarter-hour region end
+#define DAILY_START_ADDR 6400 // daily region start
+#define DAILY_END_ADDR 10050  // daily region end
+
+// ─── Command Constants ──────────────────────────────────────
+#define CMD_BUFFER_READ 0x02
+#define CMD_DELAY 20 // inter-packet delay (ms)
+
+// ─── Packet Structure ───────────────────────────────────────
+#define PACKET_SIZE 20      // bytes per notification
+#define PACKET_HEADER 2     // index bytes
+#define PACKET_DATA 18      // data bytes per packet
+#define VALUES_PER_PACKET 9 // uint16 values per packet
+
+// ─── Publishing Configuration ───────────────────────────────
+// Meter: publish last completed 15-min consumption (plain number)
+// Ideal for Loxone Meter (Delta mode) or HA utility_meter
+#define PUBLISH_METER true
+
+// Daily history: publish last N days with dates (computed from QH data)
+// Set to false to disable, max ~119 days (limited by QH ring buffer)
+#define PUBLISH_DAILY_HISTORY true
+#define DAILY_HISTORY_DAYS 30
+
+// Hourly history: publish last N hours with timestamps (from QH data)
+// Set to false to disable, max ~719 hours (limited by QH ring buffer)
+#define PUBLISH_HOURLY_HISTORY true
+#define HOURLY_HISTORY_HOURS 48
